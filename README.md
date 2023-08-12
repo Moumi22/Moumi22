@@ -1,9 +1,10 @@
 ![I am web developer from Bangladesh](https://camo.githubusercontent.com/48ca76bb2cf7981b9e69218526ff80cba23e4f8cff92d045541fa1df73571f02/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4335363136415147617373694b426d71686b772f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3230305f3830302f302f313633343734393431373833353f653d3231343734383336343726763d6265746126743d4473356d476e383461794a6539794157756a375f326e456a75466f4c534a7351314f686e4874304b6c374d)
 ### Hi there 👋, I am Moumita
 #### I am web developer from Bangladesh
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-Skills:  JS / HTML / Java/C/C++
+Skills:  JS / HTML / Java/C/C++/MySQL/mongoDB/illustator/photoshop
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScirpt 
